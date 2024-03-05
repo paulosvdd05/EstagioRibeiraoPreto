@@ -1,0 +1,12 @@
+A) 1,3,5,7,9,11,13;
+R: n + 2
+B) 2,4,8,16,32,64,128,256;
+R:n+n
+C) 0,1,4,9,16,25,36,49,64,81;
+R: n + proximo numero impár(0+1=1; 1+3=4; 4+5=9; 9+7=16...)
+D)4,16,36,64,100,144,196;
+R: numeros pares sequenciais ao quadrado(^2);
+E)1,1,2,3,5,8,13,21,34
+R:Fibonacci, O proximo valor de n é a soma dos dois valores anteriores.
+F)2,10,12,16,17,18,19,200,201,202
+R:Numeros que começam com D.
